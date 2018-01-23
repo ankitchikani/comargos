@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\compiler.xml" timestamp="1516638172976" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\encodings.xml" timestamp="1516571220565" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__cglib_cglib_nodep_2_1_3.xml" timestamp="1516571220648" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__com_google_code_gson_gson_2_8_0.xml" timestamp="1516571220726" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__com_google_guava_guava_19_0.xml" timestamp="1516571220834" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__commons_codec_commons_codec_1_9.xml" timestamp="1516571220886" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__commons_io_commons_io_2_5.xml" timestamp="1516571220978" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__commons_logging_commons_logging_1_2.xml" timestamp="1516571221082" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__io_github_bonigarcia_webdrivermanager_2_1_0.xml" timestamp="1516571221126" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__io_netty_netty_3_5_7_Final.xml" timestamp="1516571221214" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1516571221330" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__net_java_dev_jna_jna_4_1_0.xml" timestamp="1516571221378" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__net_java_dev_jna_jna_platform_4_1_0.xml" timestamp="1516571221434" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_apache_commons_commons_compress_1_9.xml" timestamp="1516571221510" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_apache_commons_commons_exec_1_3.xml" timestamp="1516571221586" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_5.xml" timestamp="1516571221711" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" timestamp="1516571221775" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" timestamp="1516571221913" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_apache_maven_archetypes_maven_archetype_quickstart_1_1.xml" timestamp="1516636333447" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_apache_maven_maven_3_0.xml" timestamp="1516636333603" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_apache_maven_plugins_maven_plugins_24.xml" timestamp="1516571522612" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1516571222016" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_jsoup_jsoup_1_10_2.xml" timestamp="1516571222156" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_rauschig_jarchivelib_0_7_1.xml" timestamp="1516571222234" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" timestamp="1516571222297" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml" timestamp="1516571222359" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml" timestamp="1516571222469" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml" timestamp="1516571222609" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml" timestamp="1516571222656" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml" timestamp="1516571222703" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml" timestamp="1516571222793" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" timestamp="1516571222855" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml" timestamp="1516571222933" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml" timestamp="1516571223184" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_24.xml" timestamp="1516571223340" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\misc.xml" timestamp="1516570686068" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\modules.xml" timestamp="1516570630478" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\.idea\workspace.xml" timestamp="1516666979126" />
+    <file path="C:\Users\nikit\IdeaProjects\comargos\comargos.iml" timestamp="1516638172898" />
+  </project-files>
+</conversion>
+
